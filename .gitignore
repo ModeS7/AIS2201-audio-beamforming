@@ -1,0 +1,33 @@
+# Jupyter
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Archives
+*.zip
+*.rar
+
+# Large reference materials
+*.pdf
+*.epub
+
+# Office docs (report kept separately)
+*.doc
+*.docx
+
+# Arduino build
+*.elf
+*.hex
