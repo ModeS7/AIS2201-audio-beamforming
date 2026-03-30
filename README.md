@@ -22,6 +22,22 @@ The result is two separated mono WAV files: one with the baby audio, one with th
 
 ![Beamforming Diagram](docs/diagrams/beamforming.png)
 
+## Audio Demo
+
+**Input: Mixed stereo recording (baby + lecture)**
+
+https://github.com/user-attachments/assets/input_stereo.mp4
+
+**Output: Separated baby audio**
+
+https://github.com/user-attachments/assets/output_baby.mp4
+
+**Output: Separated lecture audio**
+
+https://github.com/user-attachments/assets/output_adult.mp4
+
+> **Note:** To embed the audio players above, edit this README on GitHub and drag-drop the `.mp4` files from `audio/` into the text editor. GitHub will generate permanent upload URLs to replace the placeholders.
+
 ## Project Structure
 
 ```
