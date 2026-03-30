@@ -26,15 +26,15 @@ The result is two separated mono WAV files: one with the baby audio, one with th
 
 **Input: Mixed stereo recording (baby + lecture)**
 
-https://github.com/user-attachments/assets/input_stereo.mp4
+https://github.com/user-attachments/assets/83efd32d-9e32-4fd8-8925-39ceb8bcffe2
 
 **Output: Separated baby audio**
 
-https://github.com/user-attachments/assets/output_baby.mp4
+https://github.com/user-attachments/assets/2665fa98-6afd-43ae-b6a0-7ab2f7eb87f5
 
 **Output: Separated lecture audio**
 
-https://github.com/user-attachments/assets/output_adult.mp4
+https://github.com/user-attachments/assets/1613d28e-265e-4b44-98cd-b3f248f4465f
 
 > **Note:** To embed the audio players above, edit this README on GitHub and drag-drop the `.mp4` files from `audio/` into the text editor. GitHub will generate permanent upload URLs to replace the placeholders.
 
